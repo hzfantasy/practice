@@ -1,0 +1,14 @@
+[
+  {
+    "case_id": "001",
+    "case_desc": "search selenium from baidu",
+    "test_site": "http://www.baidu.com",
+    "search_content": "selenium 灰蓝"
+  },
+  {
+    "case_id": "002",
+    "case_desc": "search 163 from baidu",
+    "test_site": "http://www.baidu.com",
+    "search_content": "163"
+  }
+]

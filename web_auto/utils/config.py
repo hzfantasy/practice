@@ -8,9 +8,6 @@ DRIVER_PATH = os.path.join(BASE_PATH, 'drivers')
 LOG_PATH = os.path.join(BASE_PATH, 'log')
 REPORT_PATH = os.path.join(BASE_PATH, 'report')
 
-CHROME_DRIVER = os.path.join(DRIVER_PATH, 'chromedriver.exe')
-FIREFOX_DRIVER = os.path.join(DRIVER_PATH, 'geckodriver.exe')
-
 
 class Config:
     def __init__(self, config=CONFIG_FILE):
