@@ -40,4 +40,4 @@ for percent in colors_percentages_sorted:
     colors_sorted.append(list(colors[index]))
 
 for color in colors_sorted:
-    print(color)
+    print color
